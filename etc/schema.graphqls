@@ -1,0 +1,6 @@
+type Customer {
+    nationality: String @resolver(class: "Binstellar\\MyAccount\\Model\\Resolver\\Customer\\Nationality")
+    marital_status: String @resolver(class: "Binstellar\\MyAccount\\Model\\Resolver\\Customer\\MaritalStatus")
+    highest_education: String @resolver(class: "Binstellar\\MyAccount\\Model\\Resolver\\Customer\\HighestEducation")
+    preferred_language: String @resolver(class: "Binstellar\\MyAccount\\Model\\Resolver\\Customer\\PreferredLanguage")
+}
