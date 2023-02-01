@@ -21,6 +21,9 @@ Wondering how to achieve that? Don't worry we have got the solution for it.
 > Install our module Binstellar/MyAccount
 
 
+&nbsp;
+&nbsp;
+
 ## Installation Steps
 
 ##### Step 1 : Download the Zip file from Github & Unzip it
