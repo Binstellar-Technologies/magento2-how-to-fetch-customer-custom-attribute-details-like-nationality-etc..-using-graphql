@@ -10,7 +10,7 @@
 &nbsp;
 &nbsp;
 
-> Magento2 GraphQL to get customer custom attribute values. There is always a need to add new customer attributes like Nationaity, Marital Status etc.. 
+> Here we have created a custom GraphQL module to get customer custom attribute values. There is always a need to add new customer attributes like Nationaity, Marital Status, Preferred Language, Highest Education etc.. 
 
 &nbsp;
 &nbsp;
@@ -20,6 +20,10 @@ Wondering how to achieve that? Don't worry we have got the solution for it.
 
 > Install our module Binstellar/MyAccount
 
+&nbsp;
+&nbsp;
+
+> In order to achieve this we have created a custom Resolver & added the functionality to get the customer added values via GRAPHQL end point.
 
 &nbsp;
 &nbsp;
